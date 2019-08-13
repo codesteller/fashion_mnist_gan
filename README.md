@@ -1,1 +1,1 @@
-# fashion_mnist_gan
+# GAN Example on Fashion MNIST Dataset
